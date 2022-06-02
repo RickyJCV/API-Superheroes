@@ -1,0 +1,10 @@
+com/joubo/apisuperheroes/controller/SuperheroesController.class
+com/joubo/apisuperheroes/repository/SuperheroesRepository.class
+com/joubo/apisuperheroes/entity/Superheroe.class
+com/joubo/apisuperheroes/ApiSuperheroesApplication.class
+com/joubo/apisuperheroes/service/SuperheroesService.class
+com/joubo/apisuperheroes/error/RestResponseEntityExceptionHandler.class
+com/joubo/apisuperheroes/config/SwaggerConfiguration.class
+com/joubo/apisuperheroes/service/impl/SuperheroesServiceImpl.class
+com/joubo/apisuperheroes/exception/SuperHeroeNoEncontrado.class
+com/joubo/apisuperheroes/controller/impl/SuperheroesControllerImpl.class

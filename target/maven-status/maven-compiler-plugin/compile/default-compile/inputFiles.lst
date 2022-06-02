@@ -1,0 +1,10 @@
+/Users/ricky/Desktop/ATSISTEMAS/API/src/main/java/com/joubo/apisuperheroes/service/impl/SuperheroesServiceImpl.java
+/Users/ricky/Desktop/ATSISTEMAS/API/src/main/java/com/joubo/apisuperheroes/exception/SuperHeroeNoEncontrado.java
+/Users/ricky/Desktop/ATSISTEMAS/API/src/main/java/com/joubo/apisuperheroes/controller/impl/SuperheroesControllerImpl.java
+/Users/ricky/Desktop/ATSISTEMAS/API/src/main/java/com/joubo/apisuperheroes/ApiSuperheroesApplication.java
+/Users/ricky/Desktop/ATSISTEMAS/API/src/main/java/com/joubo/apisuperheroes/error/RestResponseEntityExceptionHandler.java
+/Users/ricky/Desktop/ATSISTEMAS/API/src/main/java/com/joubo/apisuperheroes/controller/SuperheroesController.java
+/Users/ricky/Desktop/ATSISTEMAS/API/src/main/java/com/joubo/apisuperheroes/repository/SuperheroesRepository.java
+/Users/ricky/Desktop/ATSISTEMAS/API/src/main/java/com/joubo/apisuperheroes/config/SwaggerConfiguration.java
+/Users/ricky/Desktop/ATSISTEMAS/API/src/main/java/com/joubo/apisuperheroes/entity/Superheroe.java
+/Users/ricky/Desktop/ATSISTEMAS/API/src/main/java/com/joubo/apisuperheroes/service/SuperheroesService.java
